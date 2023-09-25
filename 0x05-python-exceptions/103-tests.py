@@ -1,5 +1,8 @@
 #!/usr/bin/python3 -u
+<<<<<<< HEAD
 
+=======
+>>>>>>> 970323ea71f406ceccda24e58d78568678e04b3d
 import ctypes
 
 lib = ctypes.CDLL('./libPython.so')
